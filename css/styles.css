@@ -1,0 +1,133 @@
+.top_container {
+    background-color: #D5EEBB;
+    padding-top: 40px;
+
+}
+.middle_container {
+    background-color: #C2FFD9;
+
+}
+.bottom-container {
+    background-color: #F3C583;
+
+}
+h1 {
+    color: #297F87;
+    margin-bottom: 0px;
+    font-family: 'Style Script', cursive;
+    font-size: 550%;
+
+}
+body {
+    margin: 0px;
+    text-align: center;
+
+}
+h2 {
+    color: #297F87;
+    display: block;
+    font-family: 'STIX Two Text', serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    line-height: 2;
+}
+.cloud1 {
+    position: absolute;
+    right: 250px;
+
+}
+.cloud {
+    position: absolute;
+    left: 250px;
+    top: 10px;
+}
+
+.computer {
+    border-radius: 100%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.keyboard {
+    border-raduis: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+p {
+    line-height: 2;
+}
+h3 {
+    color: #297F87;
+}
+.gaddy {
+   border-radius: 100%;
+   width: 20%;
+}
+hr {
+    border-style: dotted none none;
+    width: 10%;
+    border-color: #34656d;
+    border-width: 7px;
+
+    }
+.skill-style {
+    margin: 30px auto 0px;
+}
+.BUTTON_JDN {
+   margin: 0px 0px 20px;
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: Helvetica;
+   font-size: 20px;
+   font-weight: 500;
+   padding: 10px;
+   -webkit-box-shadow: inset 0 1px 20px 0 #000000;
+   -moz-box-shadow: inset 0 1px 20px 0 #000000;
+   box-shadow: inset 0 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: outset #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_JDN:hover {
+   border: solid #337FED 1px;
+   background: #5E7CAD;
+   background-image: -webkit-linear-gradient(top, #5E7CAD, #3D94F6);
+   background-image: -moz-linear-gradient(top, #5E7CAD, #3D94F6);
+   background-image: -ms-linear-gradient(top, #5E7CAD, #3D94F6);
+   background-image: -o-linear-gradient(top, #5E7CAD, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #5E7CAD, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.twitter-link: {
+    margin: 0px 20px 0px;
+}
+
+}
+.contacts-div {
+    background-color: #D83A56;
+}
+
+
